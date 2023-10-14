@@ -1,36 +1,36 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
+title: Li Yong
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://www.liyong.online
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Li Yong
   description:
     - Hello!
     - This tiny website
-    - Looks like json
+    - 热爱生活，知足常乐
   cv: assets/cv.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Anywhere, Anytime
+    - hubei province
+    - People's Republic of China
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
+    office: https://www.liyong.online
+    way: https://kee.so/liyong
+    email: nicedaytoooyou@gmail.com
+  word: 昨天是段历史，明天是个谜团，而今天是天赐的礼物，要像珍惜礼物那样珍惜今天
+  translation: Yesterday is history, tomorrow is a mystery, and today is a gift from God. Cherish today like a gift.
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    facebook: https://www.facebook.com/100087409027814
+    twitter: https://twitter.com/NiceDayTooYou
+    instagram: https://www.instagram.com/serendipityniceday
+    youtube: https://youtube.com/@serendipityniceday
+    official website: https://www.liyong.online
+    github: https://github.com/NiceDayTooYou
 
 exclude:
   - LICENSE
